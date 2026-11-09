@@ -1,15 +1,15 @@
-# Hi there, I'm Rhere Frendra Saputra 👋
+# Hi there, I'm Rhere Frendra Saputra 
 
-🎓 **IT Student at Institute Technology Bacharuddin Jusuf Habibie**  
-🌱 **Currently Learning & Exploring:** Machine Learning / Intelligent Systems, Full-Stack Web, Mobile, & Game Development  
-🎯 **Goal:** Aspiring Software Engineer  
+**IT Student at Institute Technology Bacharuddin Jusuf Habibie**  
+**Currently Learning & Exploring:** Machine Learning / Intelligent Systems, Full-Stack Web, Mobile, & Game Development  
+**Goal:** Aspiring Software Engineer  
 
 ---
 
-### 📖 About Me
-- 🏫 Mahasiswa Computer Science yang antusias mempelajari berbagai cabang rekayasa perangkat lunak.
-- 💡 Sedang mendalami **Sistem Cerdas (AI/ML)** serta dasar-dasar **Web, Mobile, dan Game Development**.
-- 🚀 Menyukai proses *problem solving*, membangun proyek studi kasus, dan terus mengeksplorasi teknologi baru.
+### About Me
+- Mahasiswa Computer Science yang antusias mempelajari berbagai cabang rekayasa perangkat lunak.
+- Sedang mendalami **Sistem Cerdas (AI/ML)** serta dasar-dasar **Web, Mobile, dan Game Development**.
+- Menyukai proses *problem solving*, membangun proyek studi kasus, dan terus mengeksplorasi teknologi baru.
 
 ---
 
