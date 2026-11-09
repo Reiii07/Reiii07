@@ -48,11 +48,9 @@
 
 ### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reiii07&show_icons=true&theme=react&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reiii07&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</div>
+- **Repositories:** 5+ Public Repositories
+- **Current Focus:** Machine Learning & Software Engineering Experiments
+- **Main Languages:** Python, JavaScript, HTML/CSS
 
 ---
 
